@@ -1,0 +1,5 @@
+C:\Users\lprimoo\Desktop\schem2worldedit_release\schem2worldedit.exe
+C:\Users\lprimoo\Desktop\schem2worldedit_release\schem2worldedit.dll
+C:\Users\lprimoo\Desktop\schem2worldedit_release\schem2worldedit.deps.json
+C:\Users\lprimoo\Desktop\schem2worldedit_release\schem2worldedit.runtimeconfig.json
+C:\Users\lprimoo\Desktop\schem2worldedit_release\schem2worldedit.pdb

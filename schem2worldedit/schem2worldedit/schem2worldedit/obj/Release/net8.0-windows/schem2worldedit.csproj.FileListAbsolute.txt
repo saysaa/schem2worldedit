@@ -1,0 +1,17 @@
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\bin\Release\net8.0-windows\schem2worldedit.exe
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\bin\Release\net8.0-windows\schem2worldedit.deps.json
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\bin\Release\net8.0-windows\schem2worldedit.runtimeconfig.json
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\bin\Release\net8.0-windows\schem2worldedit.dll
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\bin\Release\net8.0-windows\schem2worldedit.pdb
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.Form1.resources
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.Properties.Resources.resources
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.csproj.GenerateResource.cache
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.AssemblyInfoInputs.cache
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.AssemblyInfo.cs
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.csproj.CoreCompileInputs.cache
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.dll
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\refint\schem2worldedit.dll
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.pdb
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\schem2worldedit.genruntimeconfig.cache
+C:\Users\lprimoo\Desktop\schem2worldedit\schem2worldedit\schem2worldedit\obj\Release\net8.0-windows\ref\schem2worldedit.dll
